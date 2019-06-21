@@ -1,0 +1,281 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 50px;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+
+  .top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+  header {
+    height: 450px;
+    background-image: url('./images/city-scape.svg');
+    background-color: #206588;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    color: white;
+  }
+
+  body {
+    font-family: Roboto;
+    font-size: 10px;
+    line-height: 3.5em;
+    font-weight: 300;
+  }
+  
+  h1,h2,h3,h4,h5,h6 {
+    font-family: Roboto Condensed;
+  }
+  
+  h1 {
+    font-size: 48px;
+  }
+  
+  h2 {
+    font-size: 35px;
+    margin: 0 0 15px 0;
+  }
+  
+  header aside {
+    width: 520px;
+    font-size: 18px;
+    margin: 20px 0;
+    line-height: 120%;
+  }
+  
+  nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding: 6px 10px 0px 10px;
+    height: 38px;
+    font-size: 16px;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+  }
+  
+  .nav-top-left {
+    float: left;
+  }
+  
+  .nav-top-links {
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+  }
+  
+  .nav-top-links li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+  .header-bar {
+    height: 30px;
+    padding: 10px;
+    font-size: 12px;
+  }
+  
+  .header-npm-logo {
+    max-width:100%;
+    max-height:100%;
+    float: left;
+    margin: 0 15px 0 0 ;
+  }
+  
+  .search-bar {
+    height: 30px;
+    width: 1280px;
+    margin: 0 2px 0 0 ;
+    float: left;
+    border: none;
+    padding: 0 0 0 5px;
+    background-color: rgb(31, 82, 111);
+  }
+  
+  .search-button {
+    height: 30px;
+    width: 30px;
+    float: left;
+    border: none;
+    padding: 5px;
+    background-color: rgb(31, 82, 111);
+  }
+  
+  .search-button-image {
+    height: 15px;
+    width: 15px;
+    background-color: rgb(31, 82, 111);
+  }
+  
+  .header-bear-logo {
+    max-width:100%;
+    max-height:100%;
+    float: right;
+    padding: 0 20px 0 0;
+  }
+  
+  .header-top-links {
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .header-container {
+    margin: 100px 0;
+  }
+  
+  .header-block {
+    width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .header-button {
+    height: 40px;
+    width: 170px;
+    background-color: rgb(240, 146, 51);
+    text-align: center;
+    border: none;
+    color: white;
+    border: 2px;
+    border-radius: 30px;
+    font-size: 14px;
+  }
+  
+  .section-collaboration {
+    background-color: rgb(39, 53, 71);
+    height: 400px;
+    padding: 50px;
+    color: white;
+  }
+  
+  .section-central-container {
+    width: 900px;
+    padding: 50px;
+    margin: 0 auto;
+    font-size: 14;
+  }
+  
+  .section-collaboration-container-sub ul {
+    font-size: 14px;
+    margin: 0 0 15px 0;
+  }
+  
+  .section-collaboration-container-sub button {
+      height: 40px;
+      width: 170px;
+      background-color: rgb(203, 56, 55);
+      text-align: center;
+      border: none;
+      color: white;
+      border: 2px;
+      border-radius: 30px;
+      font-size: 14px;
+      margin: 0 0 5px 0;
+  }
+  
+  .section-collaboration-container-sub p {
+    color: white;
+    font-size: 13px;
+  }
+  
+  .section-collaboration-container-sub p a {
+    text-decoration: none;
+    color: white;
+    font-size: 13px;
+    font-weight: bold;
+  }
+  
+  .section-collaboration-img {
+    float: left;
+    height: 50%;
+    width: 50%;
+    margin-right: 60px;
+  }
+  
+  .section-what-is-npm {
+    height: 450px;
+    background-image: url('./images/forklift.svg');
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    color: white;
+  }
+  
+  .section-central-container aside {
+    font-size: 14px;
+    width: 35%;
+    line-height: 150%;
+    margin: 0 0 15px 0;
+  }
+  
+  .section-what-is-npm-container-button {
+    height: 40px;
+    width: 170px;
+    background-color: rgb(5, 29, 54);
+    text-align: center;
+    border: none;
+    color: white;
+    border: 2px;
+    border-radius: 30px;
+    font-size: 14px;
+    margin: 0 0 5px 0;
+  }
+  
+  .section-what-can-you-make {
+    height: 420px;
+    padding: 50px;
+    color: rgb(135, 145, 156);
+    background-color: white;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  .section-what-can-you-make h2{
+    color: rgb(83, 88, 98);
+  }
+  
+  .section-what-can-you-make h3{
+    color: rgb(83, 88, 98);
+    margin: 10px 0;
+  }
+  
+  .section-what-can-you-make-container {
+    margin-top: 0px;
+    padding-top: 10px;
+  }
+  
+  .what-can-you-make-tile-container {
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 14;
+  }
+  
+  .what-can-you-make-tile {
+    float: left;
+    width: 27%;
+    line-height: 160%;
+    padding: 0 3%;
+  }
+  
+  .what-can-you-make-tile a {
+    text-decoration: none;
+    color: rgb(208, 74, 73);
+  }
